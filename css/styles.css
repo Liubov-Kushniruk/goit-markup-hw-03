@@ -316,12 +316,12 @@ address {
   line-height: 2;
   letter-spacing: 0.06em;
   color: var(--title-text-color);
-  margin-bottom: 0%;
+  margin-bottom: 0;
 }
 .projects-text {
   line-height: 1.88;
   color: var(--primary-text-color);
-  margin-bottom: 0%;
+  margin-bottom: 0;
 }
 .projects-text-border {
   border-left: 1px solid #eeeeee;
