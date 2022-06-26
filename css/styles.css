@@ -173,13 +173,13 @@ address {
 }
 .benefits-list {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
 }
 .benefits-item:not(:last-child) {
   margin-right: 30px;
 }
 .benefits-item {
-  width: 200px;
+  width: 270px;
 }
 .benefits-title {
   font-size: 14px;
@@ -191,6 +191,7 @@ address {
 .benefits-text {
   font-size: 14px;
   line-height: 1.71;
+  margin-bottom: 0;
 }
 
 /* about */
@@ -238,6 +239,7 @@ address {
 .team-item-text {
   line-height: 1.18;
   text-align: center;
+  margin-bottom: 0;
 }
 .team-text-content {
   padding: 30px 0;
